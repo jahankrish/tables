@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+#submit{
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+}
+table,th,td {
+    border : 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+th,td {
+    padding: 10px;
+}
